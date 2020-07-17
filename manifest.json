@@ -1,6 +1,6 @@
 {
     "name": "DTF Sidebar",
-    "description": "Hide/Show DTF Sidebar",
+    "description": "Hide/Show DTF Sidebars",
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
@@ -11,7 +11,7 @@
     "activeTab"
     ],
     "browser_action": {
-        "default_title": "Hide/Show DTF Sidebar.",
+        "default_title": "Hide/Show DTF Sidebars.",
         "default_popup": "popup.html"
     },
     "manifest_version": 2
